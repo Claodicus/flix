@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/Claodicus/flix#:~:text=39%20seconds%20ago-,flix%2Ddemo.gif,-added%20demo%20gif" width=250><br>
 
 ### Notes
 When I ran "pod install" and opened the new workspace, all of the UI objects which had a connection to the code were deleted?
